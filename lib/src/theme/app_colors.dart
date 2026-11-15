@@ -23,4 +23,10 @@ class AppColors {
   static const Color cardLine = Color(0xFFF2F2F2);
 
   static const Color primary = Color(0xFFF22E63); 
+    // Градиент для кнопок, карточек и фонов (как в Figma)
+  static const LinearGradient primaryGradient = LinearGradient(
+    colors: [Color(0xFFFF6480), Color(0xFFF22E63)], // Светло-розовый и темно-розовый
+    begin: Alignment.topLeft,
+    end: Alignment.bottomRight,
+  );
 }

@@ -18,7 +18,7 @@ class AppTextStyles {
   // Title 2
   static const TextStyle title2Regular = TextStyle(fontSize: 24, fontWeight: FontWeight.w400, color: AppColors.black, fontFamily: fontFamily);
   static const TextStyle title2Semibold = TextStyle(fontSize: 24, fontWeight: FontWeight.w600, color: AppColors.black, fontFamily: fontFamily);
-
+  static const TextStyle title2ExtraBold = TextStyle(fontSize: 24, fontWeight: FontWeight.w800, color: AppColors.black, fontFamily: fontFamily); 
   // Title 3
   static const TextStyle title3Regular = TextStyle(fontSize: 20, fontWeight: FontWeight.w400, color: AppColors.black, fontFamily: fontFamily);
   static const TextStyle title3Medium = TextStyle(fontSize: 20, fontWeight: FontWeight.w500, color: AppColors.black, fontFamily: fontFamily);

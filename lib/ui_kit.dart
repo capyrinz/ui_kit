@@ -7,3 +7,6 @@ export 'src/widgets/app_input.dart';
 export 'src/widgets/app_checkbox.dart';
 export 'src/widgets/app_timer.dart';
 export 'src/widgets/app_card.dart';
+export 'src/widgets/app_bottom_bar.dart';
+export 'src/widgets/app_select.dart';
+export 'src/widgets/app_pagination.dart';
